@@ -1,0 +1,12 @@
+langgraph
+langchain
+openai
+tiktoken
+groq
+python-dotenv
+pydantic
+langchain-core
+langchain-community
+langchain-groq
+arxiv
+wikipedia
